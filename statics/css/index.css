@@ -1,0 +1,81 @@
+body{
+    background-color: #9ed5cb;
+}
+.navbar-brand img{
+    width: 130px;
+}
+.nav-item h4{
+    color: rgb(154, 189, 154);
+}
+.btnc1{
+    margin-right: 20px;
+}
+.second{
+    width: 30rem;
+    color: rgb(88, 88, 88);
+    text-align: right;
+}
+.second h1{
+    font-size: 150px;
+    color: orange;
+    text-shadow: 2px 2px 10px black;
+    margin: 150px 0px 40px;
+}
+.form1{
+    width: 350px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+}
+.log{
+    margin-top: 25vh;
+}
+.log h1{
+    margin-top: 13vh;
+    font-size: 60px;
+}
+.link1{
+    margin-left: 100px;
+}
+.log2{
+    margin-top: 15vh;
+}
+.log2 h1{
+    margin-top: 23vh;
+    font-size: 60px;
+}
+.link2{
+    margin-left: 135px;
+}
+.box{
+    border-radius: 10px;
+    margin: 20px;
+    background-color: white;
+    padding: 10px;
+    height: 300px;
+    position: relative;
+}
+.abc{
+    margin: 50px 100px 0;
+}
+.box h1{
+    color: brown;
+}
+.box h5{
+    color: grey;
+    margin: 20px 0 20px;
+}
+.links{
+    position: absolute;
+    bottom: 20px;
+    width: 95%;
+    display: flex;
+    justify-content: space-around;
+}
+.btn-custom{
+    width: 110px;
+}
+.timer{
+    font-size: 30px !important;
+    font-weight: bold;
+}
