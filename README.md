@@ -1,7 +1,7 @@
 <div align="center">
 <img width="60%" src="https://github.com/Saswat-Kumar-Pradhan/.BLOG/assets/127642809/07dc22b7-9996-4184-9052-1ba64ed5178e"></img>
 <h1>.BLOG</h1>
-<h5>By Saswat Kumar Pradhan</h5>
+<h5>By Monalisa Patra</h5>
 </div>
 <br>
   <h2>Introduction :</h2>
@@ -14,9 +14,9 @@
   •	IDE: Visual Studio Code, PyCharm<br>
   •	Client-Side Technologies: HTML, CSS, JavaScript, Bootstrap<br>
   •	Server-Side Technologies: Python<br>
-  •	Data Base Server: PostgreSQL<br>
+  •	Data Base Server: sqlite<br>
   •	Framework: Django<br>
-  •	Operating System: Linux (Ubuntu)
+  •	Operating System:windows 
 </p><br>
 <!-- <img width="49%" src="https://github.com/Saswat-Kumar-Pradhan/ASIDE-SIMILAR-GAME/assets/127642809/04b7beea-e82e-43db-b44c-10f16135bd68"></img> -->
 <h2>Conclusion :</h2>
